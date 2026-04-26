@@ -1,0 +1,10 @@
+print("Начало выполнения...")
+import tkinter as tk
+print("Tkinter импортирован")
+root = tk.Tk()
+print("Окно создано")
+root.title("Тест")
+tk.Label(root, text="Работает!").pack()
+print("Запуск mainloop...")
+root.mainloop()
+print("Программа завершена")

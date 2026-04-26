@@ -1,0 +1,19 @@
+{
+  "cartridges": [
+    {
+      "serial": "1",
+      "model": "TK-1150",
+      "status": "Склад",
+      "department": "Бухгалтерия",
+      "issue_date": "",
+      "issued_to": ""
+    },
+    {
+      "serial": "2",
+      "model": "Т312",
+      "status": "Выдан",
+      "issued_to": "КомОт",
+      "issue_date": "23.11.2025 22:07"
+    }
+  ]
+}
